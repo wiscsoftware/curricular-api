@@ -9,7 +9,7 @@ universities such as [Universities of Wisconsin](https://www.wisconsin.edu/), th
 has [13 universities](https://www.wisconsin.edu/campuses/) or [University of California](https://www.universityofcalifornia.edu/) 
 that consist of [10 campuses](https://www.universityofcalifornia.edu/campuses-locations)), `/enrollments`, `/schools`, `/courses` etc..
 
-Feel free to reach us at contact@baranasoftware.com to see how we can collaborate in your API design and implementation
+Feel free to reach us at wiscsoftware@gmail.com to see how we can collaborate in your API design and implementation
 effort.
 
 ## Tech Stack 

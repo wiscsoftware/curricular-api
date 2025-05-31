@@ -35,7 +35,7 @@ datastore([store.go](src/api/store.go))
 
 
 ## System Design
-![Curricular API](images/curricular-api.svg)
+![Curricular API](curricular-api.svg)
 
 ### Design Notes
 * __Problem statment__: Provide a mechanishm to access to data from Student Information System (SIS) and a Data Warehouse (DW)
